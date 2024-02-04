@@ -1,0 +1,42 @@
+body {
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	font-family: "Arial Narrow", Verdana, Arial, Helvetica, sans-serif;
+	size: A4 landscape;
+	text-align: center;
+	vertical-align: middle;
+}
+
+h1, th {
+	font-family: "Rockwell", Times, serif;
+}
+
+h1 {
+	font-size: 28px;
+}
+
+table {
+    border : 10px #666 solid ;
+    display: inline-block;
+    margin : 20px ;
+    margin-top : 55px ;
+}
+
+td {
+	width: 1.2cm ;
+	height: 2.2cm ;
+	border: 2px #AAA solid;
+	text-align: center;
+	font-size: 40px;
+}
+
+th {
+	height: 10px ;
+	text-align: center;
+	font-size: 10px;
+}
+
+#free {
+	background-color: #F66;
+}
